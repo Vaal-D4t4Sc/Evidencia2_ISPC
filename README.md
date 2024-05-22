@@ -21,7 +21,7 @@ cd nombre-del-proyecto
 npm install
 
 
-### Explicación de cada sección:
+# Explicación de cada sección:
 
 1. **Nombre del Proyecto**: El título del proyecto.
 2. **Descripción**: Un resumen breve de lo que hace el proyecto.
