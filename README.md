@@ -1,25 +1,29 @@
 # Mellon
 
 ## Integrantes
-https://github.com/Franor9
+***Franor9***
    - Nombre y Apellido: Francisco Oviedo
    - DNI 39326636
    - Email: oviedor96@gmail.com
-.
-https://github.com/Lukit4s
+   - https://github.com/Franor9
+
+***Lukit4s***
    - Nombre y Apellido: Lucas Dylan Ledesma
    - DNI 44828160
    - Email: lucas.dylan.ledesma@gmail.com
-.
-https://github.com/Numaaaaaaaaa
+   - https://github.com/Lukit4s
+
+***Numaaaaaaaaa***
    - Nombre y Apellido:
    - DNI 
    - Email ?
-.
-https://github.com/Vaal-D4t4Sc
+   - https://github.com/Numaaaaaaaaa
+
+***Vaal-D4t4Sc***
    - Nombre y Apellido: Valentina Pich
    - DNI 35524680
    - Email valentina.m.pich@hotmail.com
+   - https://github.com/Vaal-D4t4Sc`
 
 ## Una breve descripción de lo que hace el proyecto.
 
