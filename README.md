@@ -8,19 +8,6 @@
 - [Contribución]
 - [Licencia]
 
-## Instalación
-
-`bash
-# Clonar el repositorio
-git clone https://github.com/tu-usuario/nombre-del-proyecto.git
-
-# Navegar al directorio del proyecto
-cd nombre-del-proyecto
-
-# Instalar dependencias
-npm install
-
-
 # Explicación de cada sección:
 
 1. **Nombre del Proyecto**: El título del proyecto.
@@ -33,7 +20,7 @@ npm install
 
 # Proyecto del Grupo
 
-. Descripcion del proyecto
+. Descripcion del proyecto mas amplio 
 
 # Tabla de Contenidos
 -  [integrantes del Grupo(#integrantes-del-grupo)
