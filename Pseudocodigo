@@ -1,1 +1,79 @@
-Pendiente
+Proceso MellonMUSIC
+    Definir eleccion Como Entero
+	
+    // Menú Principal
+    Mientras eleccion = 0 Hacer
+        LimpiarPantalla
+        Escribir "=================================="
+        Escribir "          Mellon MUSIC            "
+        Escribir "=================================="
+        Escribir "1. Iniciar Sesión"
+        Escribir "2. Registrarse"
+        Escribir "3. Explorar Música"
+        Escribir "4. Ayuda"
+        Escribir "0. Salir"
+        Escribir "=================================="
+        Escribir "Seleccione una opción: "
+        Leer eleccion
+		
+        Segun eleccion Hacer
+            Caso 1:
+                
+                IniciarSesion()
+            Caso 2:
+                
+                Registrarse()
+            Caso 3:
+                
+                ExplorarMusica()
+            Caso 4:
+               
+                MostrarAyuda()
+            Caso 0:
+               
+                Escribir "Gracias por usar Mellon MUSIC. ¡Hasta luego!"
+            De Otro Modo:
+                Escribir "Opción no válida. Intente de nuevo."
+        FinSegun
+    FinMientras
+FinProceso
+
+SubProceso IniciarSesion
+    Definir usuario, contrasena Como Cadena
+    Escribir "Ingrese su nombre de usuario: "
+    Leer usuario
+    Escribir "Ingrese su contraseña: "
+    Leer contrasena
+    Escribir "Iniciando sesión..."
+FinSubProceso
+
+SubProceso Registrarse
+    Definir nombre, usuario, contrasena, email Como Cadena
+    Escribir "Ingrese su nombre completo: "
+    Leer nombre
+    Escribir "Ingrese su nombre de usuario: "
+    Leer usuario
+    Escribir "Ingrese su contraseña: "
+    Leer contrasena
+    Escribir "Ingrese su correo electrónico: "
+    Leer email
+    Escribir "Registrándose..."
+FinSubProceso
+
+SubProceso ExplorarMusica
+    
+    Escribir "Explorando música..."
+FinSubProceso
+
+SubProceso MostrarAyuda
+    Escribir "=================================="
+    Escribir "              Ayuda               "
+    Escribir "=================================="
+    Escribir "1. Para iniciar sesión, seleccione la opción 1 y siga las instrucciones."
+    Escribir "2. Para registrarse, seleccione la opción 2 y complete el formulario."
+    Escribir "3. Para explorar música, seleccione la opción 3."
+    Escribir "4. Si necesita más ayuda, visite nuestro sitio web o contacte a soporte."
+    Escribir "=================================="
+    Escribir "Presione cualquier tecla para volver al menú principal..."
+    Leer opcion
+FinSubProceso
