@@ -39,7 +39,7 @@ Empieza a escuchar contenido. ¡Explora y descubre! .
    - *Apellido:* pich
    - *DNI:* 35524680
    - *Correo Electrónico:* valentina.m.pich@hotmail.com
-   - *GitHub:* [https://github.com/Vaal-D4t4Sc]
+   - *GitHub:* [[https://github.com/Vaal-D4t4Sc](https://github.com/Vaal-D4t4Sc/Evidencia2_Pich_Ejercicios_IntroProg)]
 
 3. *Nombre:* francisco
    - *Apellido:* Oviedo
