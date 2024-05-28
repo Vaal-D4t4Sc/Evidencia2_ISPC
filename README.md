@@ -55,7 +55,7 @@ Empieza a escuchar contenido. ¡Explora y descubre! .
 # Descripción de la Propuesta del Proyecto
 
 La propuesta del proyecto: 
-
+Plataforma de streaming de musica. Se requiere ingresar a su usuario y contraseña para luego elegir otras opciones.
 
 
 
@@ -63,13 +63,4 @@ La propuesta del proyecto:
 
 # Pseudocódigo
 
-`plaintext
-Inicio
-    Definir usuarios
-    Definir tareas
-    Crear función para añadir tareas
-    Crear función para asignar tareas a usuarios
-    Crear función para actualizar el estado de las tareas
-    Crear función para notificar a usuarios sobre tareas asignadas
-    Integrar un calendario para visualizar tareas
-    Crear interfaz de usuario para la gestión de tareas
+Disponible aparte, bajo nombre "Pseudocodigo" del inicio de sesión a la plataforma
