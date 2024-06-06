@@ -1,33 +1,17 @@
+# Tabla de contenidos
+- [Descripción de la Propuesta del Proyecto](#descripción-de-la-propuesta-del-proyecto) (REVISAR)
+- [Análisis y Diseño del Proyecto](#análisis-y-diseño-del-proyecto)                     (INCONCLUSO)
+- [Soluciones Prácticas](#soluciones-prácticas)                                         (ORDENAR O RETIRAR)
+
 # Mellon MUSIC
 ![](https://cdn.discordapp.com/attachments/1237148612778004573/1243357062013128814/OIG2.jpg?ex=6661a8c0&is=66605740&hm=588cee838162335bb6d7d2083251388b03ba701ee48986e1ae506b4d1840c8a2&) 
 
-## Una breve descripción de lo que hace el proyecto.
-
-La Empresa Mellon MUSIC. Esta dedica a la distribución de musica, en forma de streaming en la vibrante ciudad de Cordoba Capital. Se sumerge en la escena musical argentina, llevando a la comodidad del usuario una amplia biblioteca musical. Fomentando el talento de la industria musical Argentina ofreciendo plataformas y servicios que conectan los oyentes con los artistas.
-
-# Explicación de cada sección:
-
-1. **Nombre del Proyecto**: Mellon MUSIC.
-2. **Descripción**: Servicio de streaming musical.
-3. **Tabla de Contenidos**: Reproduccion de musica.
-4. **Instalación**: Descarga a traves de nuestra pagina web
-5. **Uso**: Empezar a usar Mellon MUSIC
-Obtener la aplicación. ¡Mellon está disponible en computadoras, celulares, tablets, televisores, automóviles, relojes y más!
-Crea tu cuenta de Mellon. Solo tienes que elegir REGÍSTRATE desde la pantalla de inicio de sesión en la aplicación. ...
-Empieza a escuchar contenido. ¡Explora y descubre! .
-7. **Licencia**: Al publicar contenido en el Servicio de Mellon, conservas la propiedad del mismo, pero otorgas a Mellon una licencia amplia y permanente para usar, modificar, distribuir y mostrar tu contenido en relación con el servicio. También renuncias a ciertos derechos, como el derecho a ser identificado como autor o a oponerte al tratamiento del contenido.
-
-# Proyecto del Grupo
-
-. Descripcion del proyecto mas amplio 
-
-# Tabla de Contenidos
--  [integrantes del Grupo(#integrantes-del-grupo)
-- [Descripción de la Propuesta del Proyecto](#descripción-de-la-propuesta-del-proyecto)
-- [Análisis y Diseño del Proyecto](#análisis-y-diseño-del-proyecto)
-- [Soluciones Prácticas](#soluciones-prácticas)
+# Presentación del proyecto
+La aplicación Mellon MUSIC se dedica a la distribución de música en formato streaming desde la vibrante ciudad de Córdoba Capital. Desde la comodidad de tu hogar accede a una biblioteca llena de tu música favorita y conecta con listas de reproducción hechas a tu medida.
 
 # Integrantes del Grupo
+
+*Modulo Programador - Cohorte 2024*
 
 1. *Nombre:* Lucas Dylan
    - *Apellido:* ledesma
@@ -52,15 +36,37 @@ Empieza a escuchar contenido. ¡Explora y descubre! .
    - *Correo Electrónico:* numasdea@gmail.com
    - *GitHub:* [https://github.com/Numaaaaaaaaa]
 
-# Descripción de la Propuesta del Proyecto
+# Resumen:
 
-La propuesta del proyecto: 
-Plataforma de streaming de musica. Se requiere ingresar a su usuario y contraseña para luego elegir otras opciones.
+1. **Nombre del Proyecto**: Mellon MUSIC.
+2. **Descripción**: Servicio de streaming musical.
+3. **Utilidad**: Reproducción de musica.
+4. **Instalación**: Descarga desde pagina web.
+5. **Uso**: privado
+6. **Licencia**: *Al publicar contenido en el Servicio de Mellon, conservas la propiedad del mismo, pero otorgas a Mellon una licencia amplia y permanente para usar, modificar, distribuir y mostrar tu contenido en relación con el servicio. También renuncias a ciertos derechos, como el derecho a ser identificado como autor o a oponerte al tratamiento del contenido*.
 
+# Proyecto
 
+Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes). Puede guardar estas listas para futuras reproducciones y compartirlas con la comunidad.
 
-# Análisis y Diseño del Proyecto
+# Propuesta
 
-# Pseudocódigo
+Obtener la aplicación---> ¡Mellon está disponible en computadoras, celulares, tablets, televisores, automóviles, relojes y más!
+Crea tu cuenta de Mellon---> Solo tienes que elegir REGÍSTRATE desde la pantalla de inicio de sesión en la aplicación y elegir plan FREE o PREMIUM.
+Empieza a escuchar contenido---> ¡Explora y descubre! .
 
-Disponible aparte, bajo nombre "Pseudocodigo" del inicio de sesión a la plataforma
+# Funcionalidades
+- CUENTA
+	Abrir la aplicación de Mellon MUSIC.
+	Seleccionar la opción "REGÍSTRATE" en la pantalla de inicio de sesión.
+	Completar el formulario de registro con la información solicitada (nombre, correo electrónico, contraseña).
+	Verificar el correo electrónico para activar la cuenta.
+
+- NAVEGACIÓN
+	Utilizar la barra de búsqueda para encontrar canciones, álbumes, artistas o listas de reproducción.
+	Explorar las recomendaciones personalizadas
+
+- GESTIÓN
+	Crear listas de reproducción personalizadas añadiendo tus canciones favoritas.
+	Compartir listas de reproducción con amigos.
+
