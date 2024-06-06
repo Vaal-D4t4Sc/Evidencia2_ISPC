@@ -7,7 +7,8 @@
 ![](https://cdn.discordapp.com/attachments/1237148612778004573/1243357062013128814/OIG2.jpg?ex=6661a8c0&is=66605740&hm=588cee838162335bb6d7d2083251388b03ba701ee48986e1ae506b4d1840c8a2&) 
 
 # Presentación del proyecto
-La aplicación Mellon MUSIC se dedica a la distribución de música en formato streaming desde la vibrante ciudad de Córdoba Capital. Desde la comodidad de tu hogar accede a una biblioteca llena de tu música favorita y conecta con listas de reproducción hechas a tu medida. Este proyecto no solo se centra en la distribución de música internacional, sino también en el fomento del talento local, conectando a los oyentes con los artistas emergentes y establecidos de Argentina.
+La aplicación Mellon MUSIC se dedica a la distribución de música en formato streaming desde la vibrante ciudad de Córdoba Capital. Desde la comodidad de tu hogar accede a una biblioteca llena de tu música favorita y conecta con listas de reproducción hechas a tu medida. 
+Este proyecto no solo se centra en la distribución de música internacional, sino también en el fomento del talento local, conectando a los oyentes con los artistas emergentes y establecidos de Argentina.
 
 # Integrantes del Grupo
 
@@ -47,7 +48,8 @@ La aplicación Mellon MUSIC se dedica a la distribución de música en formato s
 
 # Propuesta
 
-Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes) o dentro de sus favoritos. Puede guardar estas listas para futuras reproducciones o compartirlas con la comunidad. Ofrecemos un modelo de suscripción mensual con diferentes niveles de acceso, incluyendo una versión gratuita con anuncios y una versión premium sin anuncios. Para la ultima podra obtener un plan indivual o uno familiar (maximo 5 personas) al igual que un plan especial para los estudiantes
+Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes) o dentro de sus favoritos, desde la comodidad de su dispositivo movil o de escritorio. 
+Puede guardar estas listas para futuras reproducciones o compartirlas con la comunidad. Ofrecemos un modelo de suscripción mensual con diferentes niveles de acceso, incluyendo una versión gratuita con anuncios y una versión premium sin anuncios. Para la ultima podra obtener un plan indivual o uno familiar (maximo 5 personas) al igual que un plan especial para los estudiantes
 
 # Proyecto
 
