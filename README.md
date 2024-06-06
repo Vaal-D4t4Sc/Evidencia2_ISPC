@@ -45,11 +45,11 @@ La aplicación Mellon MUSIC se dedica a la distribución de música en formato s
 5. **Uso**: privado
 6. **Licencia**: *Al publicar contenido en el Servicio de Mellon, conservas la propiedad del mismo, pero otorgas a Mellon una licencia amplia y permanente para usar, modificar, distribuir y mostrar tu contenido en relación con el servicio. También renuncias a ciertos derechos, como el derecho a ser identificado como autor o a oponerte al tratamiento del contenido*.
 
-# Proyecto
+# Propuesta
 
 Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes). Puede guardar estas listas para futuras reproducciones y compartirlas con la comunidad.
 
-# Propuesta
+# Proyecto
 
 Obtener la aplicación---> ¡Mellon está disponible en computadoras, celulares, tablets, televisores, automóviles, relojes y más!
 Crea tu cuenta de Mellon---> Solo tienes que elegir REGÍSTRATE desde la pantalla de inicio de sesión en la aplicación y elegir plan FREE o PREMIUM.
