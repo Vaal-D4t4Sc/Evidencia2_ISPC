@@ -47,7 +47,7 @@ La aplicación Mellon MUSIC se dedica a la distribución de música en formato s
 
 # Propuesta
 
-Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes). Puede guardar estas listas para futuras reproducciones y compartirlas con la comunidad.
+Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes) o dentro de sus favoritos. Puede guardar estas listas para futuras reproducciones o compartirlas con la comunidad. Ofrecemos un modelo de suscripción mensual con diferentes niveles de acceso, incluyendo una versión gratuita con anuncios y una versión premium sin anuncios. Para la ultima podra obtener un plan indivual o uno familiar (maximo 4 personas) al igual que un plan especial para los estudiantes
 
 # Proyecto
 
