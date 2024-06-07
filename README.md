@@ -49,7 +49,7 @@ Este proyecto no solo se centra en la distribución de música internacional, si
 # Propuesta
 
 Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes) o dentro de sus favoritos. Desde la comodidad de su dispositivo movil o de escritorio. 
-Puede guardar estas listas para futuras reproducciones o compartirlas con la comunidad.
+
 
 # Proyecto
 
