@@ -60,10 +60,9 @@ Y completa las instrucciones de instalación señaladas por la misma. Una vez in
 
 # Funcionalidades
 - CUENTA: 
-	Abrir la aplicación de Mellon MUSIC.
-	Seleccionar la opción "REGÍSTRATE" en la pantalla de inicio de sesión.
-	Completar el formulario de registro con la información solicitada (nombre, correo electrónico, contraseña).
-	Verificar el correo electrónico para activar la cuenta.
+	Administra tu cuenta como quieras, podras editar tu nombre de usuario, apareiencia y color.
+	Administra aquellas recomendaciones, ofertas y notificaciones que te gustarias recibir.
+	 
 
 - NAVEGACIÓN: 
 	Utilizar la barra de búsqueda para encontrar canciones, álbumes, artistas o listas de reproducción.
