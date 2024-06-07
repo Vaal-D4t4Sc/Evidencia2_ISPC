@@ -55,7 +55,7 @@ Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuc
 
 Ofrecemos un modelo de suscripción mensual con diferentes niveles de acceso, incluyendo una versión gratuita con anuncios y una versión premium sin anuncios. A esta ultima podra acceder de a cuerdo al plan que mas le interese, plan indivual o familiar (maximo 5 personas). Al igual que un plan especial para los estudiantes.
 Visita la página web oficial de Mellon MUSIC. Selecciona la opción de descarga correspondiente a tu dispositivo. Sigue las instrucciones de instalación proporcionadas en la página.
-Y completa las instrucciones de instalación proporcionadas por la misma. Una vez instalada, abre la aplicación y procede al registro.
+Y completa las instrucciones de instalación señaladas por la misma. Una vez instalada la aplicacion, abrela y procede al registro.
 
 
 # Funcionalidades
@@ -67,11 +67,13 @@ Y completa las instrucciones de instalación proporcionadas por la misma. Una ve
 
 - NAVEGACIÓN: 
 	Utilizar la barra de búsqueda para encontrar canciones, álbumes, artistas o listas de reproducción.
+	Usa los filtros de acuerdo a tus preferencia 
 	Explorar las recomendaciones personalizadas y listas en tendencia. 
 
 - GESTIÓN: 
 	Podras rear listas de reproducción personalizadas añadiendo tus canciones y artistas favoritos.
 	Tambien el poder compartir listas de reproducción con amigos y el mundo.
+  	Ademas de visualizar aquellos artistas que siguen tus amigos 
 
 
 
