@@ -53,22 +53,25 @@ Puede guardar estas listas para futuras reproducciones o compartirlas con la com
 
 # Proyecto
 
-Obtener la aplicación---> ¡Mellon está disponible en computadoras, celulares, tablets, televisores, automóviles, relojes y más!
-Crea tu cuenta de Mellon---> Solo tienes que elegir REGÍSTRATE desde la pantalla de inicio de sesión en la aplicación y elegir plan FREE o PREMIUM.
-Empieza a escuchar contenido---> ¡Explora y descubre! .
+Ofrecemos un modelo de suscripción mensual con diferentes niveles de acceso, incluyendo una versión gratuita con anuncios y una versión premium sin anuncios. A esta ultima podra acceder de a cuerdo al plan que mas le interese, plan indivual o familiar (maximo 5 personas). Al igual que un plan especial para los estudiantes.
+Visita la página web oficial de Mellon MUSIC. Selecciona la opción de descarga correspondiente a tu dispositivo. Sigue las instrucciones de instalación proporcionadas en la página.
+Y completa las instrucciones de instalación proporcionadas por la misma. Una vez instalada, abre la aplicación y procede al registro.
+
 
 # Funcionalidades
-- CUENTA
+- CUENTA: 
 	Abrir la aplicación de Mellon MUSIC.
 	Seleccionar la opción "REGÍSTRATE" en la pantalla de inicio de sesión.
 	Completar el formulario de registro con la información solicitada (nombre, correo electrónico, contraseña).
 	Verificar el correo electrónico para activar la cuenta.
 
-- NAVEGACIÓN
+- NAVEGACIÓN: 
 	Utilizar la barra de búsqueda para encontrar canciones, álbumes, artistas o listas de reproducción.
-	Explorar las recomendaciones personalizadas
+	Explorar las recomendaciones personalizadas y listas en tendencia. 
 
-- GESTIÓN
-	Crear listas de reproducción personalizadas añadiendo tus canciones favoritas.
-	Compartir listas de reproducción con amigos.
+- GESTIÓN: 
+	Podras rear listas de reproducción personalizadas añadiendo tus canciones y artistas favoritos.
+	Tambien el poder compartir listas de reproducción con amigos y el mundo.
+
+
 
