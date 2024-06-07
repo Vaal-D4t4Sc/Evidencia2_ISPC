@@ -48,8 +48,8 @@ Este proyecto no solo se centra en la distribución de música internacional, si
 
 # Propuesta
 
-Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes) o dentro de sus favoritos, desde la comodidad de su dispositivo movil o de escritorio. 
-Puede guardar estas listas para futuras reproducciones o compartirlas con la comunidad. Ofrecemos un modelo de suscripción mensual con diferentes niveles de acceso, incluyendo una versión gratuita con anuncios y una versión premium sin anuncios. Para la ultima podra obtener un plan indivual o uno familiar (maximo 5 personas) al igual que un plan especial para los estudiantes
+Mellon MUSIC es una aplicación multiplataforma que permite a los usuarios escuchar música *online*. El usuario navega por la biblioteca de la aplicacion armando *playlists* según sus preferencias (género músical, artista, canciones y álbumes) o dentro de sus favoritos. Desde la comodidad de su dispositivo movil o de escritorio. 
+Puede guardar estas listas para futuras reproducciones o compartirlas con la comunidad.
 
 # Proyecto
 
