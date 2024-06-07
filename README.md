@@ -61,7 +61,7 @@ Y completa las instrucciones de instalación señaladas por la misma. Una vez in
 # Funcionalidades
 - CUENTA: 
 	Administra tu cuenta como quieras, podras editar tu nombre de usuario, apareiencia y color.
-	Administra aquellas recomendaciones, ofertas y notificaciones que te gustarias recibir.
+	Gestiona aquellas recomendaciones, ofertas y notificaciones que te gustarias recibir.
 	 
 
 - NAVEGACIÓN: 
