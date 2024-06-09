@@ -7,6 +7,16 @@
 La aplicación Mellon MUSIC se dedica a la distribución de música en formato streaming desde la vibrante ciudad de Córdoba Capital. Desde la comodidad de tu hogar accede a una biblioteca llena de tu música favorita y conecta con listas de reproducción hechas a tu medida. 
 Este proyecto no solo se centra en la distribución de música internacional, sino también en el fomento del talento local, conectando a los oyentes con los artistas emergentes y establecidos de Argentina.
 
+# Asignaturas
+ - Base de Datos I (_Docente/Tutor: Julián Conde_)
+    
+- Ética y Deontología Profesional (_Docente/Tutor: Anahí Hernández_)
+    
+- Introducción a la Programación (_Docente/Tutor: Julián Conde_)-
+- **Módulo:** - Programador
+- **Carrera - Cohorte:** - Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial - Cohorte 2024
+- **Institución:** - Instituto Superior Politécnico Córdoba
+
 # Integrantes del Grupo
 
 *Modulo Programador - Cohorte 2024*
