@@ -44,7 +44,7 @@ Este proyecto no solo se centra en la distribución de música internacional, si
    - *Correo Electrónico:* numasdea@gmail.com
    - *GitHub:* [https://github.com/Numaaaaaaaaa]
 
-# Resumen:
+# Resumen
 
 1. **Nombre del Proyecto**: Mellon MUSIC.
 2. **Descripción**: Servicio de streaming musical.
