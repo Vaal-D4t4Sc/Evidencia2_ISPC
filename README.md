@@ -1,4 +1,3 @@
-# Tabla de contenidos
 
 # Mellon MUSIC
 ![](https://cdn.discordapp.com/attachments/1237148612778004573/1243357062013128814/OIG2.jpg?ex=6661a8c0&is=66605740&hm=588cee838162335bb6d7d2083251388b03ba701ee48986e1ae506b4d1840c8a2&) 
