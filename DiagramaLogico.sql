@@ -1,4 +1,4 @@
--- Crete table User
+-- Create table User
 CREATE TABLE User (
     UserID INT AUTO_INCREMENT PRIMARY KEY,
     Name VARCHAR(50) NOT NULL,
@@ -8,11 +8,11 @@ CREATE TABLE User (
     Country VARCHAR(50)
     Preferences INT
     FOREIGN KEY (email) REFERENCES User(UserID)
-    FOREIGN KEY (Cuenta) REFERENCES Cuenta(PlanID)
+    FOREIGN KEY (User) REFERENCES User(PlanID)
 );
 
--- Create table Cuenta
-CREATE TABLE cuenta (
+-- Create table user
+CREATE TABLE user (
     PlanID INT AUTO_INCREMENT PRIMARY KEY
     Subscription VARCHAR(50) NOT NULL,
     Payment VARCHAR(45) NOT NULL,
@@ -22,8 +22,8 @@ CREATE TABLE cuenta (
     FOREIGN KEY (email) REFERENCES User(UserID)
 );	
 
--- Create table MeGusta
-CREATE TABLE megusta (
+-- Create table like
+CREATE TABLE like (
     LikeID INT,
     Repetition VARCHAR(45),
     Priority VARCHAR(45)
