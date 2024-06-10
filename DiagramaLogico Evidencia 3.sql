@@ -79,13 +79,4 @@ CREATE TABLE playlist (
     FOREIGN KEY (UserID) REFERENCES User(UserID)
 );
 
--- Create table song
-CREATE TABLE song (
-    SongID INT AUTO_INCREMENT PRIMARY KEY,
-    Title VARCHAR(100) NOT NULL,
-    length TIME,
-    AlbumID INT,
-    ArtistID INT,
-    FOREIGN KEY (AlbumID) REFERENCES Album(AlbumID),
-    FOREIGN KEY (ArtistID) REFERENCES Artist(ArtistID)
-);
+
