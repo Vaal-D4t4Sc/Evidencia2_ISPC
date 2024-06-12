@@ -31,7 +31,7 @@ CREATE TABLE like (
 );
 
 -- Create table Genre
-CREATE TABLE genre (
+CREATE TABLE Genre (
     GenreID INT AUTO_INCREMENT PRIMARY KEY,
     Name VARCHAR(50) NOT NULL
 );
@@ -59,7 +59,7 @@ CREATE TABLE Album (
 );
 
 -- Create table song
-CREATE TABLE song (
+CREATE TABLE Song (
     SongID INT AUTO_INCREMENT PRIMARY KEY,
     Title VARCHAR(100) NOT NULL,
     length TIME,
@@ -71,7 +71,7 @@ CREATE TABLE song (
 );
 
 -- create table playlist
-CREATE TABLE playlist (
+CREATE TABLE Playlist (
     PlaylistID INT AUTO_INCREMENT PRIMARY KEY,
     Name VARCHAR(100) NOT NULL,
     Creation date DATE,
