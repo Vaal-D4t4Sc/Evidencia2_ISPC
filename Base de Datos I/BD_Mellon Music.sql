@@ -108,10 +108,7 @@ CREATE TABLE IF NOT EXISTS mellon.playlist (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION
 );
-
-
 SELECT * FROM mellon.playlist;
-
 INSERT INTO playlist VALUES (null,'Lokura', null);
 insert into playlist values (null, 'Fiesta', null);
 insert into playlist values (null, 'Dormir', null);
