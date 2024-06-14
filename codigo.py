@@ -8,6 +8,7 @@ def main():
         print("1. Iniciar Sesión")
         print("2. Registrarse")
         print("3. Explorar Música")
+        print("4. Crear Playlist")
         print("5. Ayuda")
         print("0. Salir")
         print("==================================")
