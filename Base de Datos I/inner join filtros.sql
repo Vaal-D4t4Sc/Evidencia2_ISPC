@@ -4,4 +4,4 @@ FROM album
 
 INNER JOIN artist ON album.artistID = artist.artistID 
 
-WHERE artist.name = 'Led Zeppellin';
+WHERE artist.name = 'Led Zeppelin';
