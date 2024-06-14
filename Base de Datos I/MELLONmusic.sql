@@ -32,11 +32,11 @@ CREATE TABLE IF NOT EXISTS album (
 );
 
 -- Insertar datos en la tabla album
-INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Otro dia en el planeta Tierra', '2005', 1);
-INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Oktubre', '2008', 2);
-INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Armando Camaleon', '2004', 3);
-INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Exodus', '1977', 4);
-INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Led Zeppelin', '1969', 5);
+INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Otro dia en el planeta Tierra', '2005', null);
+INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Oktubre', '2008', null);
+INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Armando Camaleon', '2004', null);
+INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Exodus', '1977', null);
+INSERT INTO album (Title, ReleaseYear, ArtistID) VALUES ('Led Zeppelin', '1969', null);
 
 -- Crear la tabla user
 CREATE TABLE IF NOT EXISTS user (
@@ -50,10 +50,10 @@ CREATE TABLE IF NOT EXISTS user (
 );
 
 -- Insertar datos en la tabla user
-INSERT INTO user (Username, Email, Password, RegistrationDate) VALUES ('Val', 'flash@a.com', '123', CURDATE());
-INSERT INTO user (Username, Email, Password, RegistrationDate) VALUES ('Luk', 'mood@a.com', '123', CURDATE());
-INSERT INTO user (Username, Email, Password, RegistrationDate) VALUES ('Fran', 'rain@a.com', '123', CURDATE());
-INSERT INTO user (Username, Email, Password, RegistrationDate) VALUES ('Num', 'cloud@a.com', '123', CURDATE());
+INSERT INTO user (Username, Email, Password, RegistrationDate) VALUES (null,'Val', 'flash@a.com', '123', null);
+INSERT INTO user (Username, Email, Password, RegistrationDate) VALUES (null,'Luk', 'mood@a.com', '123', null);
+INSERT INTO user (Username, Email, Password, RegistrationDate) VALUES (null,'Fran', 'rain@a.com', '123', null);
+INSERT INTO user (Username, Email, Password, RegistrationDate) VALUES (null,'Num', 'cloud@a.com', '123', null);
 
 -- Crear la tabla song
 CREATE TABLE IF NOT EXISTS song (
@@ -70,11 +70,11 @@ CREATE TABLE IF NOT EXISTS song (
 );
 
 -- Insertar datos en la tabla song
-INSERT INTO song (Title, Length, AlbumID) VALUES ('Fuego', '00:04:30', 1);
-INSERT INTO song (Title, Length, AlbumID) VALUES ('Jijiji', '00:06:03', 2);
-INSERT INTO song (Title, Length, AlbumID) VALUES ('Brujeria', '00:03:10', 3);
-INSERT INTO song (Title, Length, AlbumID) VALUES ('Natural Mystic', '00:03:27', 4);
-INSERT INTO song (Title, Length, AlbumID) VALUES ('Good Times Bad Times', '00:02:46', 5);
+INSERT INTO song (Title, Length, AlbumID) VALUES ('Fuego', '00:04:30', null);
+INSERT INTO song (Title, Length, AlbumID) VALUES ('Jijiji', '00:06:03', null);
+INSERT INTO song (Title, Length, AlbumID) VALUES ('Brujeria', '00:03:10', null);
+INSERT INTO song (Title, Length, AlbumID) VALUES ('Natural Mystic', '00:03:27', null);
+INSERT INTO song (Title, Length, AlbumID) VALUES ('Good Times Bad Times', '00:02:46', null);
 
 -- Crear la tabla playlist
 CREATE TABLE IF NOT EXISTS playlist (
