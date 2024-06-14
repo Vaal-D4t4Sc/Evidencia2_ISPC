@@ -23,6 +23,7 @@ def main():
             mostrar_ayuda()
         elif eleccion == 0:
             print("Gracias por usar Mellon MUSIC. ¡Hasta luego!")
+            break
         else:
             print("Opción no válida. Intente de nuevo.")
             eleccion = 0
