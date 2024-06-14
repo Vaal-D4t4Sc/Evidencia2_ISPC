@@ -1,1 +1,1 @@
-SELECT * FROM user WHERE RegistrationDate BETWEEN '2023-12-01' AND '2024-12-31'; 
+SELECT * FROM user WHERE RegistrationDate BETWEEN '2024-01-01' AND '2024-12-31'; 
