@@ -88,7 +88,6 @@ INSERT INTO song VALUES (null, 'Natural Mystic', '00:03:27', null);
 INSERT INTO song VALUES (null, 'Good Times Bad Times', '00:02:46', null);
 
 
-
 CREATE TABLE IF NOT EXISTS mellon.playlist (
   PlaylistID INT NOT NULL AUTO_INCREMENT,
   Name VARCHAR(50) NOT NULL,
@@ -109,6 +108,8 @@ CREATE TABLE IF NOT EXISTS mellon.playlist (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION
 );
+
+
 SELECT * FROM mellon.playlist;
 
 INSERT INTO playlist VALUES (null,'Lokura', null);
