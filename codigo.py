@@ -8,7 +8,7 @@ def main():
         print("1. Iniciar Sesión")
         print("2. Registrarse")
         print("3. Explorar Música")
-        print("4. Ayuda")
+        print("5. Ayuda")
         print("0. Salir")
         print("==================================")
         eleccion = int(input("Seleccione una opción: "))
@@ -20,6 +20,8 @@ def main():
         elif eleccion == 3:
             explorar_musica()
         elif eleccion == 4:
+            crear_playlist()
+        elif eleccion == 5:
             mostrar_ayuda()
         elif eleccion == 0:
             print("Gracias por usar Mellon MUSIC. ¡Hasta luego!")
@@ -42,6 +44,9 @@ def registrarse():
 
 def explorar_musica():
     print("Explorando música...")
+
+def crear_playlist():
+    print("Creando playlist...")
 
 def mostrar_ayuda():
     print("==================================")
