@@ -1,5 +1,5 @@
-SELECT * 
-FROM song 
-INNER JOIN album ON song.albumID = album.albumID 
-INNER JOIN artist ON album.artistID = artist.artistID 
-WHERE album.name = 'Led Zeppelin'; 
+SELECT *
+FROM song
+INNER JOIN album ON song.AlbumID = album.AlbumID
+INNER JOIN artist ON album.ArtistID = artist.ArtistID
+WHERE album.Title = 'Led Zeppelin';
